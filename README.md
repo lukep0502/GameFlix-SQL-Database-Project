@@ -2,6 +2,8 @@
 
 This repository contains the SQL script for **GameFlix**, a fictional video game and movie rental store. This was a **college group project** focused on relational database modeling and SQL implementation using **MySQL**.
 
+📌 **Note**: All code and data are written in **Portuguese**, as the project was developed in Brazil for a university course.
+
 ---
 
 ## 📘 Project Description
